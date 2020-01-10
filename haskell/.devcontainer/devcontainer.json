@@ -23,7 +23,8 @@
 
 	// Add the IDs of extensions you want installed when the container is created in the array below.
 	"extensions": [
-        "alanz.vscode-hie-server"
+		"alanz.vscode-hie-server",
+		"phoityne.phoityne-vscode"
     ],
 
     	// Use 'settings' to set *default* container specific settings.json values on container create. 
